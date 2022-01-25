@@ -261,7 +261,7 @@ header {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   align-items: center;
-  padding: 33px
+  padding: 33px;
 }
 
 .box h3 {
@@ -296,7 +296,7 @@ header {
 }
 
 .box_1 {
- background-image: url('./../images/logo/groups/Rectangle1.png');
+  background-image: url("./../images/logo/groups/Rectangle1.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom right;
@@ -304,24 +304,23 @@ header {
 }
 
 .box_2 {
- background-image: url('./../images/logo/groups/Rectangle2.png');
+  background-image: url("./../images/logo/groups/Rectangle2.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom right;
   margin-bottom: 50px;
   margin-left: 50px;
-
 }
 
 .box_3 {
- background-image: url('./../images/logo/groups/Rectangle3.png');
+  background-image: url("./../images/logo/groups/Rectangle3.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom right;
 }
 
 .box_4 {
- background-image: url('./../images/logo/groups/Rectangle3.png');
+  background-image: url("./../images/logo/groups/Rectangle3.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom right;
